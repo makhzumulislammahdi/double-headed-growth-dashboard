@@ -1,0 +1,288 @@
+PROJECT BRIEF
+
+I have uploaded my original 18-page research paper titled:
+
+"Double-Headed Growth: Evaluating Russia's Sanction Evasion Networks, Asymmetric Geopolitical Re-Routing, and Banking Loopholes."
+
+Author:
+Makhzumul Islam Mahdi
+
+Your task is to transform this research paper into a professional geopolitical intelligence and economic analytics platform similar in quality and appearance to major research organizations such as:
+
+Russia Fossil Tracker
+CSIS Analytics
+Atlantic Council Dashboards
+World Bank Data Platforms
+IMF Economic Dashboards
+
+This must NOT look like a student project.
+
+The final result should look like a professional intelligence platform developed by a research institute.
+
+OBJECTIVE
+
+Build a fully interactive Streamlit dashboard that visualizes all major findings from the research paper.
+
+The dashboard should convert static research findings into interactive intelligence products.
+
+The goal is to help policymakers, researchers, journalists, economists, and students understand how Russia adapts to sanctions through alternative financial, trade, banking, energy, and technology networks.
+
+DESIGN REQUIREMENTS
+
+Use a modern dark theme.
+
+Primary colors:
+
+Deep Blue
+Black
+Silver
+White
+
+Accent colors:
+
+Red
+Green
+
+The design should resemble a professional geopolitical intelligence platform.
+
+Include:
+
+Professional sidebar
+Custom page icons
+Interactive cards
+Hover effects
+KPI indicators
+Animated metrics
+Professional typography
+DASHBOARD STRUCTURE
+PAGE 1 – Executive Summary
+
+Display:
+
+Research title
+Author information
+Research overview
+Main findings
+Key conclusions
+
+Create KPI cards:
+
+Shadow Fleet Size
+CIS Banking Nodes
+Alternative Trade Corridors
+Estimated Energy Revenue
+Inflation Rate
+GDP Growth
+
+Add summary statistics and insights.
+
+PAGE 2 – Russia Sanctions Evasion Ecosystem
+
+Create a network graph showing:
+
+Russia connected to:
+
+Kyrgyzstan
+Armenia
+Belarus
+China
+South Ossetia
+Abkhazia
+Transnistria
+Turkey
+India
+
+Use animated connection lines.
+
+Display relationship strengths.
+
+Add hover descriptions.
+
+PAGE 3 – CIS Banking Network Intelligence
+
+Visualize:
+
+Bakai Bank
+Evocabank
+Belarus VTB
+
+Create:
+
+Sankey Diagram
+Money Flow Charts
+Capital Movement Visualization
+
+Show:
+
+Russia → CIS Banks → Global Payments
+
+Create a financial flow intelligence panel.
+
+PAGE 4 – Shadow Fleet Intelligence Center
+
+Create an advanced maritime dashboard.
+
+Display:
+
+Shadow vessel count
+Shipping routes
+Oil transport network
+
+Show routes:
+
+Russia
+↓
+Turkey
+↓
+India
+↓
+Europe
+
+Include:
+
+Interactive world map
+Vessel route simulation
+Energy flow metrics
+PAGE 5 – Energy Revenue Analytics
+
+Create charts showing:
+
+Energy exports
+Revenue trends
+Trade partners
+
+Visualizations:
+
+Line charts
+Bar charts
+Heat maps
+
+Include forecast models.
+
+PAGE 6 – Luxury Goods Re-Routing Network
+
+Create a supply-chain intelligence dashboard.
+
+Visualize:
+
+Austria
+↓
+China
+↓
+Central Asia
+↓
+Russia
+
+Display:
+
+G-Wagon imports
+Luxury vehicle routes
+Parallel import networks
+
+Use flow diagrams.
+
+PAGE 7 – Crypto Mining and Alternative Liquidity
+
+Create a dashboard explaining:
+
+Siberian crypto mining
+Alternative liquidity generation
+Digital asset infrastructure
+
+Visualizations:
+
+Crypto ecosystem maps
+Mining power indicators
+Liquidity generation charts
+PAGE 8 – Macroeconomic Dashboard
+
+Use data from the paper.
+
+Create:
+
+GDP Growth Analysis
+
+Inflation Analysis
+
+Interest Rate Analysis
+
+Forecasts to 2030
+
+Visualizations:
+
+Interactive line charts
+Area charts
+Forecast models
+
+Include economic commentary.
+
+PAGE 9 – Eurasian Financial Order
+
+Create a strategic intelligence page.
+
+Visualize:
+
+Russia
+China
+CIS countries
+Alternative financial corridors
+
+Build:
+
+Interactive geopolitical network map.
+
+PAGE 10 – Research Methodology
+
+Include:
+
+Research framework
+Data sources
+References
+Methodology
+
+Create a professional publication section.
+
+ADVANCED FEATURES
+
+Implement:
+
+Plotly Interactive Charts
+Sankey Diagrams
+Network Graphs
+Geopolitical Maps
+Hover Tooltips
+Search Functionality
+Download Charts
+Export Data
+Mobile Responsive Layout
+FILE STRUCTURE
+
+Create:
+
+app.py
+
+requirements.txt
+
+README.md
+
+assets/
+
+data/
+
+pages/
+
+charts/
+
+config/
+
+FINAL GOAL
+
+The final project should be strong enough to be listed on a professional CV under:
+
+"Geopolitical Intelligence Dashboard Development"
+
+and should appear comparable to research products produced by professional think tanks.
+
+Use all figures, tables, concepts, and findings contained in the uploaded research paper.
+
+Build everything automatically
