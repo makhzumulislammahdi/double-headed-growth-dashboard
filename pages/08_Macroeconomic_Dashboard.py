@@ -146,8 +146,8 @@ def color_cpi(val):
 
 st.dataframe(
     df_table.style
-        .applymap(color_gdp, subset=["GDP Growth (%)"])
-        .applymap(color_cpi, subset=["CPI Inflation (%)"])
+        .map(color_gdp, subset=["GDP Growth (%)"])
+        .map(color_cpi, subset=["CPI Inflation (%)"])
         .set_properties(**{"background-color": "#161B22", "color": "#E6EDF3",
                            "border": "1px solid #30363D"})
         .set_table_styles([
