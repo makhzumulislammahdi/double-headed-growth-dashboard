@@ -1,0 +1,196 @@
+I want a COMPLETE REDESIGN of the project.
+
+IMPORTANT:
+Do NOT remove any information, research findings, charts, tables, case studies, economic indicators, banking analysis, shadow fleet analysis, crypto sections, luxury import sections, or references.
+
+Keep ALL existing content.
+
+The problem is not the data.
+The problem is the user experience and design.
+
+====================================
+DESIGN VISION
+====================================
+
+Create a futuristic cyberpunk geopolitical intelligence platform.
+
+Style inspiration:
+
+- Cyberpunk 2077 UI
+- Bloomberg Terminal
+- Palantir Gotham
+- Russia Fossil Tracker
+- Modern intelligence agency dashboards
+- Financial command center interfaces
+
+The website should feel like a classified geopolitical intelligence report.
+
+Dark theme only.
+
+Color palette:
+
+- Deep black background
+- Neon blue glow
+- Cyan highlights
+- White text
+- Small red warning accents
+- Glassmorphism cards
+
+====================================
+USER EXPERIENCE
+====================================
+
+Remove the traditional multi-page dashboard experience.
+
+Users should NOT need to constantly switch pages.
+
+Instead:
+
+Create ONE LONG SCROLLING EXPERIENCE.
+
+Make the project feel like reading an interactive intelligence report.
+
+Use:
+
+- Smooth scrolling
+- Sticky navigation
+- Scroll animations
+- Section transitions
+
+Navigation should be:
+
+Executive Summary
+Banking Networks
+Shadow Fleet
+Energy Revenue
+Luxury Imports
+Crypto Mining
+Macroeconomic Dashboard
+Eurasian Financial Order
+Research Methodology
+
+Clicking a section should smoothly scroll to that section.
+
+====================================
+HERO SECTION
+====================================
+
+Create a dramatic hero section.
+
+Large title:
+
+DOUBLE-HEADED GROWTH
+
+Subtitle:
+
+Evaluating Russia's Sanction Evasion Networks, Asymmetric Geopolitical Re-Routing, and Banking Loopholes
+
+Author:
+
+Makhzumul Islam Mahdi
+
+Background should include:
+
+- Global trade routes
+- Financial network lines
+- Cyber intelligence grid
+- Animated world map
+
+Add a futuristic intelligence dashboard atmosphere.
+
+====================================
+VISUAL STORYTELLING
+====================================
+
+Do NOT stack charts randomly.
+
+Tell a story.
+
+Each section should have:
+
+1. Section title
+2. Brief intelligence summary
+3. Key metrics
+4. Visualizations
+5. Key findings
+
+Make the user naturally scroll from one topic to another.
+
+====================================
+SECTION DESIGN
+====================================
+
+Each section should be visually unique.
+
+Banking Networks:
+- Network graph
+- Money flow visualization
+- Banking intelligence cards
+
+Shadow Fleet:
+- Maritime routes
+- Vessel tracking visuals
+- Energy movement flows
+
+Energy Revenue:
+- Revenue charts
+- Oil export visualizations
+
+Luxury Imports:
+- Supply chain route diagrams
+- Trade corridor maps
+
+Crypto Mining:
+- Digital infrastructure visuals
+- Mining statistics
+
+Macroeconomics:
+- GDP
+- Inflation
+- Interest rates
+- Forecasts
+
+====================================
+ANIMATIONS
+====================================
+
+Add subtle animations:
+
+- KPI counters
+- Fade-in effects
+- Neon glow hover effects
+- Animated connection lines
+- Smooth chart loading
+
+Animations must be professional.
+
+Avoid excessive motion.
+
+====================================
+LAYOUT
+====================================
+
+Use:
+
+- Full-width sections
+- Modern cards
+- Large visual blocks
+- Responsive design
+- High readability
+
+Reduce clutter.
+
+Increase whitespace.
+
+Make it look like a professional think-tank intelligence platform.
+
+====================================
+FINAL GOAL
+====================================
+
+The final website should look like a professional geopolitical intelligence portal created by a research institute.
+
+It should be easy to scroll, visually impressive, cyberpunk-inspired, and portfolio-worthy.
+
+Keep all existing data and analysis.
+Improve only the design, navigation, user experience, and presentation.
